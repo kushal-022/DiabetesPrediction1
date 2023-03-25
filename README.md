@@ -2,6 +2,9 @@
 
 This is a web application that uses machine learning to predict whether a person has diabetes or not. It's built using Python, Django, and the Logistic Regression algorithm.
 
+<img width="1440" alt="Screenshot 2023-03-25 at 10 56 07 PM" src="https://user-images.githubusercontent.com/105519854/227732427-c2b324f4-39bc-48b6-9bfa-825828d41207.png">
+
+
 ## <span style="color:#008080"> Usage </span>
 
 The web application allows users to input values for various health parameters such as glucose level, blood pressure, and BMI, and then predicts whether they have diabetes or not based on these inputs.
