@@ -14,6 +14,9 @@ The web application allows users to input values for various health parameters s
 1. Enter the values for the health parameters on the web form.
 2. Click the "Predict" button to submit the form.
 3. The web application will display the prediction result as either "Positive" (indicating the presence of diabetes) or "Negative" (indicating the absence of diabetes).
+<img width="1440" alt="Screenshot 2023-03-25 at 10 57 07 PM" src="https://user-images.githubusercontent.com/105519854/227732502-ec80ce19-76bc-4edd-b8ff-ca32fb06d192.png">
+
+
 
 ## <span style="color:#008080"> How it Works </span>
 
